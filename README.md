@@ -7,8 +7,8 @@ A clean and responsive web application for managing student registrations. This 
 🔗 [View Website](https://waiyanphyooo21.github.io/reg-form/)
 
 ## 📸 Screenshots
- 
-[](screenshoot/preview.png)
+
+![](screenshoot/preview.png)
 
 ## Features
 
@@ -55,6 +55,7 @@ Student Register Form/
 ## Features in Detail
 
 ### Form Features
+
 - Input validation for required fields
 - Age validation (1-120 years)
 - Email format validation
@@ -62,12 +63,14 @@ Student Register Form/
 - Multi-line address input
 
 ### Table Features
+
 - Real-time updates
 - Responsive design
 - Delete functionality with confirmation
 - Clean and organized data display
 
 ### Data Persistence
+
 - All data is saved in the browser's localStorage
 - Data persists even after closing the browser
 - Automatic data loading on page refresh
@@ -75,6 +78,7 @@ Student Register Form/
 ## Responsive Design
 
 The application is fully responsive and works on:
+
 - Desktop computers
 - Tablets
 - Mobile phones
@@ -82,6 +86,7 @@ The application is fully responsive and works on:
 ## Browser Support
 
 The application works on all modern browsers:
+
 - Chrome
 - Firefox
 - Safari
@@ -90,6 +95,7 @@ The application works on all modern browsers:
 ## Future Improvements
 
 Potential future enhancements:
+
 - Edit functionality for existing records
 - Search and filter capabilities
 - Data export functionality
@@ -102,12 +108,12 @@ Feel free to fork this project and submit pull requests for any improvements.
 
 ## License
 
-This project is open source and available under the MIT License. 
+This project is open source and available under the MIT License.
 
 ## 💻 Getting Started
 
 1. Clone the repo:
-git clone https://waiyanphyooo21.github.io/reg-form.git
+   git clone https://waiyanphyooo21.github.io/reg-form.git
 2. Open `index.html` in your browser or use Live Server in VS Code.
 
 ## 📬 Contact
