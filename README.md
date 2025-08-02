@@ -10,7 +10,7 @@ A clean and responsive web application for managing student registrations. This 
 
 ![](screenshoot/preview.png)
 
-wai yan
+wai
 
 ## Features
 
