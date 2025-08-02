@@ -10,8 +10,6 @@ A clean and responsive web application for managing student registrations. This 
 
 ![](screenshoot/preview.png)
 
-w
-
 ## Features
 
 - 📝 Student registration form with validation
