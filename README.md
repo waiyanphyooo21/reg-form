@@ -9,7 +9,7 @@ A clean and responsive web application for managing student registrations. This 
 ## 📸 Screenshots
 
 ![](screenshoot/preview.png)
-1234
+123
 
 ## Features
 
